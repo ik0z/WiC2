@@ -122,6 +122,8 @@ const int REPORT_INTERVAL_SECONDS = 60;
 
 Khaled M. Alshammri | [@ik0z](https://github.com/ik0z)
 
-## License
+## Screenshots 
 
-All rights reserved. (c) 2026 Khaled M. Alshammri.
+![WiC2 Screenshot](https://raw.githubusercontent.com/ik0z/WiC2/refs/heads/main/img/1.png)
+
+![WiC2 Screenshot](https://raw.githubusercontent.com/ik0z/WiC2/refs/heads/main/img/2.png)
